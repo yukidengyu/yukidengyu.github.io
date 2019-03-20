@@ -6,7 +6,7 @@
     <description>Recent content in Tags on YukiDengyu&#39;s personal web site.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Mar 2018 16:01:23 +0800</lastBuildDate>
     
 	<atom:link href="https://yukidengyu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Preview</title>
       <link>https://yukidengyu.github.io/tags/preview/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <pubDate>Wed, 07 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://yukidengyu.github.io/tags/preview/</guid>
       <description></description>
@@ -32,9 +32,18 @@
     <item>
       <title>Tag 6</title>
       <link>https://yukidengyu.github.io/tags/tag-6/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <pubDate>Wed, 07 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://yukidengyu.github.io/tags/tag-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>标签</title>
+      <link>https://yukidengyu.github.io/tags/%E6%A0%87%E7%AD%BE/</link>
+      <pubDate>Wed, 07 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://yukidengyu.github.io/tags/%E6%A0%87%E7%AD%BE/</guid>
       <description></description>
     </item>
     
