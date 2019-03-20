@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Jane - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
+    <title>Categories on YukiDengyu&#39;s personal web site.</title>
+    <link>https://yukidengyu.github.io/categories/</link>
+    <description>Recent content in Categories on YukiDengyu&#39;s personal web site.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yukidengyu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Index</title>
-      <link>http://localhost:1313/categories/index/</link>
+      <link>https://yukidengyu.github.io/categories/index/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/index/</guid>
+      <guid>https://yukidengyu.github.io/categories/index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:1313/categories/shortcodes/</link>
+      <link>https://yukidengyu.github.io/categories/shortcodes/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/shortcodes/</guid>
+      <guid>https://yukidengyu.github.io/categories/shortcodes/</guid>
       <description></description>
     </item>
     
