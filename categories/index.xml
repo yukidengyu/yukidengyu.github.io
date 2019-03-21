@@ -10,11 +10,47 @@
     
     
     <item>
-      <title>Post</title>
-      <link>https://yukidengyu.github.io/categories/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Development</title>
+      <link>https://yukidengyu.github.io/categories/development/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/categories/post/</guid>
+      <guid>https://yukidengyu.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>https://yukidengyu.github.io/categories/docs/</link>
+      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://yukidengyu.github.io/categories/docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>https://yukidengyu.github.io/categories/english/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>https://yukidengyu.github.io/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://yukidengyu.github.io/categories/golang/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yukidengyu.github.io/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>https://yukidengyu.github.io/categories/index/</link>
+      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://yukidengyu.github.io/categories/index/</guid>
       <description></description>
     </item>
     
