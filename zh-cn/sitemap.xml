@@ -71,13 +71,6 @@
   </url>
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/author/typora/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yukidengyu.github.io/zh-cn/zh-cn/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -85,6 +78,13 @@
   
   <url>
     <loc>https://yukidengyu.github.io/zh-cn/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yukidengyu.github.io/zh-cn/author/%E4%BA%8E%E6%82%A0%E5%A5%87/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
