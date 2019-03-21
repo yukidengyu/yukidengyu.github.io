@@ -9,7 +9,25 @@
   </url>
   
   <url>
+    <loc>https://yukidengyu.github.io/author/author/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yukidengyu.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yukidengyu.github.io/categories/post/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yukidengyu.github.io/post/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -21,9 +39,27 @@
   </url>
   
   <url>
+    <loc>https://yukidengyu.github.io/tags/test/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yukidengyu.github.io/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yukidengyu.github.io/zh-cn/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yukidengyu.github.io/post/default/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

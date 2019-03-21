@@ -21,7 +21,7 @@
   </url>
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/categories/index/</loc>
+    <loc>https://yukidengyu.github.io/zh-cn/categories/post/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -58,6 +58,12 @@
   
   <url>
     <loc>https://yukidengyu.github.io/zh-cn/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yukidengyu.github.io/zh-cn/zh-cn/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
