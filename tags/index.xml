@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on YukiDengyu&#39;s personal web site.</title>
+    <title>Tags on YukiDengyu - personal web site</title>
     <link>https://yukidengyu.github.io/tags/</link>
-    <description>Recent content in Tags on YukiDengyu&#39;s personal web site.</description>
+    <description>Recent content in Tags on YukiDengyu - personal web site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 07 Mar 2018 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate>
     
 	<atom:link href="https://yukidengyu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Preview</title>
       <link>https://yukidengyu.github.io/tags/preview/</link>
-      <pubDate>Wed, 07 Mar 2018 16:01:23 +0800</pubDate>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://yukidengyu.github.io/tags/preview/</guid>
       <description></description>
@@ -32,18 +32,9 @@
     <item>
       <title>Tag 6</title>
       <link>https://yukidengyu.github.io/tags/tag-6/</link>
-      <pubDate>Wed, 07 Mar 2018 16:01:23 +0800</pubDate>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://yukidengyu.github.io/tags/tag-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>标签</title>
-      <link>https://yukidengyu.github.io/tags/%E6%A0%87%E7%AD%BE/</link>
-      <pubDate>Wed, 07 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/%E6%A0%87%E7%AD%BE/</guid>
       <description></description>
     </item>
     

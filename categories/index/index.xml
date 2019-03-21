@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Index on YukiDengyu&#39;s personal web site.</title>
+    <title>Index on YukiDengyu - personal web site</title>
     <link>https://yukidengyu.github.io/categories/index/</link>
-    <description>Recent content in Index on YukiDengyu&#39;s personal web site.</description>
+    <description>Recent content in Index on YukiDengyu - personal web site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 07 Mar 2018 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate>
     
 	<atom:link href="https://yukidengyu.github.io/categories/index/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>草稿</title>
-      <link>https://yukidengyu.github.io/post/2019-03-20-draft-demo/</link>
-      <pubDate>Wed, 07 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://yukidengyu.github.io/post/2019-03-20-draft-demo/</guid>
-      <description>草稿预览 主题预览,内容有待填充。</description>
-    </item>
     
     <item>
       <title>Jane 主题预览</title>
