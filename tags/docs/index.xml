@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on 于悠奇的网志</title>
-    <link>https://yukidengyu.github.io/categories/tech/</link>
-    <description>Recent content in Tech on 于悠奇的网志</description>
+    <title>Docs on 于悠奇的网志</title>
+    <link>https://yukidengyu.github.io/tags/docs/</link>
+    <description>Recent content in Docs on 于悠奇的网志</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yukidengyu.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yukidengyu.github.io/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

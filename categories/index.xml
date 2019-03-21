@@ -1,56 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Yukidengyu</title>
+    <title>Categories on 于悠奇的网志</title>
     <link>https://yukidengyu.github.io/categories/</link>
-    <description>Recent content in Categories on Yukidengyu</description>
+    <description>Recent content in Categories on 于悠奇的网志</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://yukidengyu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://yukidengyu.github.io/categories/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Post</title>
+      <link>https://yukidengyu.github.io/categories/post/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/categories/development/</guid>
+      <guid>https://yukidengyu.github.io/categories/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Docs</title>
-      <link>https://yukidengyu.github.io/categories/docs/</link>
-      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
+      <title>Tech</title>
+      <link>https://yukidengyu.github.io/categories/tech/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/categories/docs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>https://yukidengyu.github.io/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://yukidengyu.github.io/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://yukidengyu.github.io/categories/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yukidengyu.github.io/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Index</title>
-      <link>https://yukidengyu.github.io/categories/index/</link>
-      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://yukidengyu.github.io/categories/index/</guid>
+      <guid>https://yukidengyu.github.io/categories/tech/</guid>
       <description></description>
     </item>
     

@@ -3,89 +3,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/post/jane-theme-preview/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <loc>https://yukidengyu.github.io/post/default/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/author/</loc>
+    <loc>https://yukidengyu.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/categories/</loc>
+    <loc>https://yukidengyu.github.io/tags/docs/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/categories/index/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <loc>https://yukidengyu.github.io/categories/post/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/post/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <loc>https://yukidengyu.github.io/post/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/tags/preview/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <loc>https://yukidengyu.github.io/tags/tag-1/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/tags/shortcodes/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <loc>https://yukidengyu.github.io/tags/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/categories/shortcodes/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <loc>https://yukidengyu.github.io/categories/tech/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/tags/tag-6/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <loc>https://yukidengyu.github.io/tags/theme/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yukidengyu.github.io/zh-cn/tags/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yukidengyu.github.io/zh-cn/author/typora/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yukidengyu.github.io/zh-cn/zh-cn/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yukidengyu.github.io/zh-cn/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <loc>https://yukidengyu.github.io/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

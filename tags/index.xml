@@ -1,57 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Yukidengyu</title>
+    <title>Tags on 于悠奇的网志</title>
     <link>https://yukidengyu.github.io/tags/</link>
-    <description>Recent content in Tags on Yukidengyu</description>
+    <description>Recent content in Tags on 于悠奇的网志</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yukidengyu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://yukidengyu.github.io/tags/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Docs</title>
+      <link>https://yukidengyu.github.io/tags/docs/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/tags/development/</guid>
+      <guid>https://yukidengyu.github.io/tags/docs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>English</title>
-      <link>https://yukidengyu.github.io/tags/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>Tag 1</title>
+      <link>https://yukidengyu.github.io/tags/tag-1/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/tags/english/</guid>
+      <guid>https://yukidengyu.github.io/tags/tag-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Footnote</title>
-      <link>https://yukidengyu.github.io/tags/footnote/</link>
-      <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
+      <title>Theme</title>
+      <link>https://yukidengyu.github.io/tags/theme/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/tags/footnote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://yukidengyu.github.io/tags/go/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://yukidengyu.github.io/tags/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/golang/</guid>
+      <guid>https://yukidengyu.github.io/tags/theme/</guid>
       <description></description>
     </item>
     
