@@ -26,10 +26,4 @@
     <priority>0</priority>
   </url>
   
-  <url>
-    <loc>https://yukidengyu.github.io/zh-cn/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

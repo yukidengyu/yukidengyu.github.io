@@ -5,7 +5,6 @@
     <link>https://yukidengyu.github.io/zh-cn/tags/shortcodes/</link>
     <description>Recent content in Shortcodes on 于悠奇</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate>
     
 	<atom:link href="https://yukidengyu.github.io/zh-cn/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,10 +12,10 @@
     <item>
       <title>Jane 主题预览</title>
       <link>https://yukidengyu.github.io/zh-cn/post/jane-theme-preview/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yukidengyu.github.io/zh-cn/post/jane-theme-preview/</guid>
-      <description>主题预览,内容有待填充。</description>
+      <description>主题预览,内容有待填充。 测试</description>
     </item>
     
   </channel>
