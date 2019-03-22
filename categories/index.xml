@@ -5,27 +5,11 @@
     <link>https://yukidengyu.github.io/categories/</link>
     <description>Recent content in Categories on 于悠奇的网志</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy;于悠奇 2019</copyright>
     
 	<atom:link href="https://yukidengyu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Post</title>
-      <link>https://yukidengyu.github.io/categories/post/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yukidengyu.github.io/categories/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://yukidengyu.github.io/categories/tech/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yukidengyu.github.io/categories/tech/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

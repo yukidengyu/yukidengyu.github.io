@@ -5,37 +5,11 @@
     <link>https://yukidengyu.github.io/tags/</link>
     <description>Recent content in Tags on 于悠奇的网志</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <language>zh-cn</language>
+    <copyright>&amp;copy;于悠奇 2019</copyright>
     
 	<atom:link href="https://yukidengyu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Docs</title>
-      <link>https://yukidengyu.github.io/tags/docs/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/docs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://yukidengyu.github.io/tags/hugo/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://yukidengyu.github.io/tags/test/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/test/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
