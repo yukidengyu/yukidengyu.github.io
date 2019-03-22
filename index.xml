@@ -8,7 +8,7 @@
     <language>zh-cn</language>
     <copyright>&amp;copy;于悠奇 2019</copyright>
     
-        <atom:link href="https://yukidengyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yukidengyu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
