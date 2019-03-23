@@ -1,121 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 于悠奇的网志</title>
+    <title>Tags on Yuki Deng</title>
     <link>https://yukidengyu.github.io/tags/</link>
-    <description>Recent content in Tags on 于悠奇的网志</description>
+    <description>Recent content in Tags on Yuki Deng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 31 Aug 2017 15:43:48 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yukidengyu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>English</title>
-      <link>https://yukidengyu.github.io/tags/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>Markdown</title>
+      <link>https://yukidengyu.github.io/tags/markdown/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/tags/english/</guid>
+      <guid>https://yukidengyu.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Syntax Highlighting</title>
-      <link>https://yukidengyu.github.io/tags/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      <title>MathJax</title>
+      <link>https://yukidengyu.github.io/tags/mathjax/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/tags/syntax-highlighting/</guid>
+      <guid>https://yukidengyu.github.io/tags/mathjax/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Theme preview</title>
-      <link>https://yukidengyu.github.io/tags/theme-preview/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
+      <title>Pandoc</title>
+      <link>https://yukidengyu.github.io/tags/pandoc/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/tags/theme-preview/</guid>
+      <guid>https://yukidengyu.github.io/tags/pandoc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>preview</title>
-      <link>https://yukidengyu.github.io/tags/preview/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
+      <title>RStudio</title>
+      <link>https://yukidengyu.github.io/tags/rstudio/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/tags/preview/</guid>
+      <guid>https://yukidengyu.github.io/tags/rstudio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>shortcodes</title>
-      <link>https://yukidengyu.github.io/tags/shortcodes/</link>
-      <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
+      <title>Tutorial</title>
+      <link>https://yukidengyu.github.io/tags/tutorial/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/tags/shortcodes/</guid>
+      <guid>https://yukidengyu.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag-1</title>
-      <link>https://yukidengyu.github.io/tags/tag-1/</link>
-      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      <title>blogdown</title>
+      <link>https://yukidengyu.github.io/tags/blogdown/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/tags/tag-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag-2</title>
-      <link>https://yukidengyu.github.io/tags/tag-2/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/tag-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag-3</title>
-      <link>https://yukidengyu.github.io/tags/tag-3/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/tag-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag-4</title>
-      <link>https://yukidengyu.github.io/tags/tag-4/</link>
-      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/tag-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag-5</title>
-      <link>https://yukidengyu.github.io/tags/tag-5/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/tag-5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>中文</title>
-      <link>https://yukidengyu.github.io/tags/%E4%B8%AD%E6%96%87/</link>
-      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/%E4%B8%AD%E6%96%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>日本語</title>
-      <link>https://yukidengyu.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
-      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
-      
-      <guid>https://yukidengyu.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+      <guid>https://yukidengyu.github.io/tags/blogdown/</guid>
       <description></description>
     </item>
     
