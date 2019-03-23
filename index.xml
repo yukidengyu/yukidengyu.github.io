@@ -18,18 +18,18 @@
       
       <guid>https://yukidengyu.github.io/about/</guid>
       <description>This is Yuki Deng&amp;rsquo;s personal website powered by the amazing Hugo.
-And thanks to Yihui for the lovely theme hugo-ivy.
+And thanks to Yihui Xie for the lovely theme hugo-ivy.
 Please note the theme is released under Unlicense while content on this site under CC BY-NC-SA 4.0.
 Moreover, it&amp;rsquo;s truly helpful to my site-deploy when I found the deploy.sh code shared by emacsist.</description>
     </item>
     
     <item>
       <title>test note</title>
-      <link>https://yukidengyu.github.io/note/2019/03/23/test/</link>
+      <link>https://yukidengyu.github.io/note/2019/03/23/test-note/</link>
       <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yukidengyu.github.io/note/2019/03/23/test/</guid>
-      <description>测试 slug 自动引用 title</description>
+      <guid>https://yukidengyu.github.io/note/2019/03/23/test-note/</guid>
+      <description>测试</description>
     </item>
     
     <item>
