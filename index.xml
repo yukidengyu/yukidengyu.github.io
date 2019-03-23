@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuki Deng</title>
+    <title>Yuki | 于悠奇</title>
     <link>https://yukidengyu.github.io/</link>
-    <description>Recent content on Yuki Deng</description>
+    <description>Recent content on Yuki | 于悠奇</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate>
@@ -18,8 +18,8 @@
       
       <guid>https://yukidengyu.github.io/about/</guid>
       <description>This is Yuki&amp;rsquo;s personal website powered by Hugo.
-And thanks to Yihui Xie for the lovely theme hugo-iv.
-Please note the theme is Unlicensed while the content of all pages is licensed under CC BY-NC-SA 4.0.</description>
+And thanks to Yihui Xie for the lovely theme hugo-ivy.
+Please note the theme is Unlicensed while content on this site is licensed under CC BY-NC-SA 4.0.</description>
     </item>
     
     <item>
