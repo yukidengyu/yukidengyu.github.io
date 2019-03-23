@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Yuki</title>
+    <title>Categories on Yuki Deng</title>
     <link>https://yukidengyu.github.io/categories/</link>
-    <description>Recent content in Categories on Yuki</description>
+    <description>Recent content in Categories on Yuki Deng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
@@ -13,7 +13,7 @@
     <item>
       <title>Example</title>
       <link>https://yukidengyu.github.io/categories/example/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yukidengyu.github.io/categories/example/</guid>
       <description></description>

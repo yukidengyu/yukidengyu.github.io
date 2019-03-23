@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuki</title>
+    <title>Yuki Deng</title>
     <link>https://yukidengyu.github.io/</link>
-    <description>Recent content on Yuki</description>
+    <description>Recent content on Yuki Deng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate>
@@ -20,6 +20,15 @@
       <description>This is Yuki&amp;rsquo;s personal website powered by Hugo.
 And thanks to Yihui Xie for the lovely theme hugo-ivy.
 Please note the theme is Unlicensed while content on this site is licensed under CC BY-NC-SA 4.0.</description>
+    </item>
+    
+    <item>
+      <title>Another Note on A blogdown Tutorial</title>
+      <link>https://yukidengyu.github.io/note/2019/03/23/.title/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yukidengyu.github.io/note/2019/03/23/.title/</guid>
+      <description>测试 slug 自动引用 title</description>
     </item>
     
     <item>
