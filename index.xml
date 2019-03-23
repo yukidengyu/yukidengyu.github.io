@@ -6,10 +6,21 @@
     <description>Recent content on Yuki Deng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yukidengyu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://yukidengyu.github.io/about/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yukidengyu.github.io/about/</guid>
+      <description>This is Yuki&amp;rsquo;s personal website powered by Hugo.
+And thanks to Yihui Xie for the lovely theme hugo-iv.
+Please note the theme is Unlicensed while the content of all pages is licensed under CC BY-NC-SA 4.0.</description>
+    </item>
     
     <item>
       <title>Another Note on A blogdown Tutorial</title>
