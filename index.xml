@@ -24,6 +24,17 @@ Moreover, it&amp;rsquo;s truly helpful to my site-deploy when I found the deploy
     </item>
     
     <item>
+      <title>Copyright and license</title>
+      <link>https://yukidengyu.github.io/copyright/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yukidengyu.github.io/copyright/</guid>
+      <description>Copyright and license This is Yuki Deng&amp;rsquo;s personal website powered by the amazing Hugo.
+And thanks to Yihui Xie for the lovely theme hugo-ivy.
+Please note the theme is released under Unlicense while content on this site under CC BY-NC-SA 4.0.</description>
+    </item>
+    
+    <item>
       <title>test note</title>
       <link>https://yukidengyu.github.io/note/2019/03/23/test-note/</link>
       <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
