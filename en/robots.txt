@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://yukidengyu.github.io/sitemap.xml
