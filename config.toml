@@ -36,7 +36,7 @@ footnotereturnlinkcontents = "↩"
   highlightjsVersion = "9.12.0"
 
 [params.twikoo]
-	enable = true
+	enable = false
 
 [blackfriday]
 extensionsmask = [ "noIntraEmphasis" ]
