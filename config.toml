@@ -1,30 +1,55 @@
-baseURL = "https://yukidengyu.github.io/my-blog/"
-languageCode = "zh-CN"
-title = "Yuki's Blog"
-theme = "hyde"
-disqusShortname = ""
+baseURL = "https://yukidengyu.github.io/"
+languageCode = "en-us"
+title = "Yuki"
+theme = "ivy"
+disqusShortname = "yuki"
 hasCJKLanguage = true
 enableEmoji = true
+footnotereturnlinkcontents = "↩"
 
 [permalinks]
-  posts = "/:filename/"
+  posts = "/posts/:year/:month/:slug/"
+  newsletter = "/newsletter/:year/:month/:slug/"
 
-[Menus]
-  main = [
-      {Name = "Archives", URL = "https://yukidengyu.github.io/my-blog/posts/"},
-      {Name = "Tags", URL = "https://yukidengyu.github.io/my-blog/tags/"},
-      {Name = "Photos", URL = "https://yukidengyu.github.io/my-blog/photos/"}
-  ]
+[menu]
+  
+  [[menu.main]]
+  name="归档"
+  url="/posts/"
+  weight="1"
+  [[menu.main]]
+  name="通讯"
+  url="/newsletter/"
+  weight="2"
+  [[menu.main]]
+  name="其它"
+  url="/others/"
+  weight="3"
 
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # description about this website
+  # description abou this website
   description = "There is only one thing in the world worse than being talked about, and that is not being talked about."
+  footer = "&copy; [Yuki](https://yukidengyu.github.io/) | since 2022"
+  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsLang = ["r", "yaml", "tex"]
+  highlightjsTheme = "github"
+  highlightjsVersion = "9.12.0"
 
-[params.valine]
-  enable = false
-    appId = ''
-    appKey = ''
-    placeholder = '既然来了，那就留个痕迹吧~'
-    visitor = true
+[params.twikoo]
+	enable = true
+
+[blackfriday]
+extensionsmask = [ "noIntraEmphasis" ]
+fractions = false
+
+[markup.highlight]
+codeFences = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.parser]
+autoHeadingIDType = "blackfriday"
+
+[markup.tableOfContents]
+startLevel = 1
